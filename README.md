@@ -21,7 +21,7 @@
 
 
 
-## About LibreLingo
+## About LibreLingo test
 
 LibreLingo's mission is to create a modern language-learning platform that is owned by the community of its users. All software is licensed under AGPLv3, which guarantees the freedom to run, study, share, and modify the software. Course authors are encouraged to release their courses with free licenses.
 
